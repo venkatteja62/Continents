@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Continents.iml" filepath="$PROJECT_DIR$/Continents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeAnalyzer/GradeAnalyzer.iml" filepath="$PROJECT_DIR$/GradeAnalyzer/GradeAnalyzer.iml" />
     </modules>
   </component>
 </project>
